@@ -19,3 +19,15 @@ I am [Ishan](https://www.linkedin.com/in/nullptr7) just a developer 😄 from <i
 
 I am lucky enough to have worked on my good technologies. Have exposure on:
 
+<p float="left">
+  <a href="https://www.oracle.com/java/technologies/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/java-gif.gif"  height="80" />
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank" >
+      <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/scala-gif.gif"  height="80" />
+    </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/docker.gif"  height="80" /> 
+  </a>
+ </p>
+
