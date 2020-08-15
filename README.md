@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am [Ishan](https://www.linkedin.com/in/nullptr7) just a developer 😄 from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png" height="25" weidth="25" /> who loves to code 💻 and passionate about learning new technologies and support [Open Source.](https://opensource.org/) I have been applying tricks of trade in Software Development for last 8 years!
+I am [Ishan](https://www.linkedin.com/in/nullptr7) just a developer 😄 from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png" height="25" weidth="25" /> who loves to code 💻 and is passionate about learning new technologies and supports [Open Source.](https://opensource.org/) I have been applying tricks of trade in Software Development for the last 8 years!
 
-I am lucky enough to have worked on my good technologies. Have exposure on:
+I am lucky enough to have worked on many good technologies. Have exposure on:
 
 <p float="left">
   <a href="https://www.oracle.com/java/technologies/" target="_blank" >
