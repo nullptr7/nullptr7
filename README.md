@@ -41,7 +41,7 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/react-2.gif"  height="80" />
 </a>
 <a href="https://www.w3schools.com/nodejs/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/nodejs.gif"  height="80" width="130"/>
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/nodejs.gif"  height="80"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/html5.gif"  height="80" />
