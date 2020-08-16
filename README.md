@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+:sparkling_heart:
 <a href="https://www.jetbrains.com/idea/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/ij.png"  height="80" />
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/visual-studio-code.gif"  height="80" />
 </a>
+:sparkling_heart:
 
 I am [Ishan](https://www.linkedin.com/in/nullptr7) just a developer 😄 from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png" height="25" weidth="25" /> who loves to code 💻 and is passionate about learning new technologies and supports [Open Source.](https://opensource.org/) I have been applying tricks of trade in Software Development for the last 8 years!
 
@@ -36,7 +37,27 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/scala-gif.gif"  height="80" />
 </a>
 
-#### Front end
+##### Libraries & Frameworks used for my day to day back end development
+<a href="https://start.spring.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/spring.png"  height="80" />
+</a>
+<a href="https://micronaut.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/micronaut.jpg"  height="80" />
+</a>
+<a href="https://mapstruct.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/mspstruct.png"  height="80" />
+</a>
+<a href="https://akka.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/akka.png"  height="80" />
+</a>
+<a href="https://www.togglz.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/togglz-logo.png"  height="80" />
+</a>
+<a href="https://www.togglz.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/drools.png"  height="80" />
+</a>
+
+#### Front end (enthusiast)
 <a href="https://reactjs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/react-2.gif"  height="80" />
 </a>
@@ -86,7 +107,7 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
   <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/tc.png"  height="80" /> 
 </a>
     
-#### Learning
+#### Learning (non in order but whenever I get time I )
     
 <a href="https://angular.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/angular.gif"  height="80" />
