@@ -27,7 +27,7 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
       <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/scala-gif.gif"  height="80" />
     </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/docker-2.gif"  height="80" /> 
   </a>
  </p>
 
