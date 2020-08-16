@@ -56,6 +56,9 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
 <a href="https://www.togglz.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/drools.png"  height="80" />
 </a>
+<a href="https://swagger.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/swagger.gif"  height="80" />
+</a>
 
 #### Front end (enthusiast)
 <a href="https://reactjs.org/" target="_blank" >
@@ -107,7 +110,7 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
   <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/tc.png"  height="80" /> 
 </a>
     
-#### Learning (non in order but whenever I get time I )
+#### Learning (non in order but whenever I get time I :books: )
     
 <a href="https://angular.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/angular.gif"  height="80" />
