@@ -36,6 +36,12 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
 <a href="https://www.scala-lang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/scala-gif.gif"  height="80" />
 </a>
+<div>
+    I have experience of working with Java 11+ (modularity, that was introduced in Java 9) and currently using Java14 for most of my personal dev work.
+    <a href="https://start.spring.io/" target="_blank" >
+        <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/java14.png"  height="80" />
+    </a>
+</div>
 
 ##### Libraries & Frameworks used for my day to day back end development
 <a href="https://start.spring.io/" target="_blank" >
@@ -58,6 +64,9 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
 </a>
 <a href="https://swagger.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/swagger.gif"  height="80" />
+</a>
+<a href="https://spring.io/reactive" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/spring-reactive.jpg"  height="80" />
 </a>
 
 #### Front end (enthusiast)
@@ -114,6 +123,9 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     
 <a href="https://angular.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/angular.gif"  height="80" />
+</a>
+<a href="http://reactivex.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/rxjava.png"  height="80" />
 </a>
 <a href="https://hbase.apache.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/hbase.png"  height="80" />
