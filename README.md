@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 :sparkling_heart:
 <a href="https://www.jetbrains.com/idea/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/ij.png"  height="80" />
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/ij.gif"  height="80" />
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/visual-studio-code.gif"  height="80" />
