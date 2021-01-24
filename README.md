@@ -123,9 +123,6 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     
 #### Learning (non in order but whenever I get time I :books: )
     
-<a href="https://angular.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/angular.gif"  height="80" />
-</a>
 <a href="http://reactivex.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/rxjava.png"  height="80" />
 </a>
