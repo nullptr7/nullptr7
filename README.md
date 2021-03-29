@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/nullptr7/count.svg)
+Thank you for visiting me :) You are visitor# ![Visitor Count](https://profile-counter.glitch.me/nullptr7/count.svg)
 
 <!--
 **nullptr7/nullptr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
