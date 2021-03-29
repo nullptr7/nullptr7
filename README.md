@@ -142,3 +142,5 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
         
 </p>
 
+[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullptr7)](https://github-readme-stats.vercel.app/api?username=nullptr7)
+
