@@ -39,10 +39,10 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/scala-gif.gif"  height="80" />
 </a>
 <div>
-    I have experience of working with Java 11+ (modularity, that was introduced in Java 9) and currently using Java14 for most of my personal dev work.
+    I have experience of working with Java 11+ (modularity, that was introduced in Java 9) and currently using Java17 for most of my personal dev work.
     <div>
-        <a href="https://openjdk.java.net/projects/jdk/14/" target="_blank" >
-            <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/java14.png"  height="80" />
+        <a href="https://openjdk.java.net/projects/jdk/17/" target="_blank" >
+            <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/java17.webp"  height="80" />
         </a>
     </div>
 </div>
