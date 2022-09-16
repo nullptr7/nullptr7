@@ -47,7 +47,12 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     </div>
 </div>
 
-##### Libraries & Frameworks used for my day to day back end development
+##### Bread and Butter
+<a href="https://typelevel.org/cats/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/cats-effect.png"  height="80" />
+</a>
+
+##### Java Explorations
 <a href="https://start.spring.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/spring.png"  height="80" />
 </a>
