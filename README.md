@@ -51,6 +51,24 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
 <a href="https://typelevel.org/cats/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/cats-effect.png"  height="80" />
 </a>
+<a href="https://zio.dev/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/zio.gif"  height="120" />
+</a>
+<a href="https://monix.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/monix.png"  height="80" />
+</a>
+<a href="https://akka.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/akka.png"  height="80" />
+</a>
+<a href="https://graphql.org" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"  height="80" />
+</a>
+<a href="https://github.com/sangria-graphql/sangria" target="_blank" >
+    <img src="https://sangria-graphql.github.io/assets/img/sangria-logo-1.svg"  height="80" />
+</a>
+<a href="https://ghostdogpr.github.io/caliban/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/caliban.png"  height="80" />
+</a>
 
 ##### Java Explorations
 <a href="https://start.spring.io/" target="_blank" >
@@ -62,13 +80,10 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
 <a href="https://mapstruct.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/mspstruct.png"  height="80" />
 </a>
-<a href="https://akka.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/akka.png"  height="80" />
-</a>
 <a href="https://www.togglz.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/togglz-logo.png"  height="80" />
 </a>
-<a href="https://www.togglz.org/" target="_blank" >
+<a href="https://www.drools.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/drools.png"  height="80" />
 </a>
 <a href="https://swagger.io/" target="_blank" >
@@ -77,13 +92,6 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
 <a href="https://spring.io/reactive" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/spring-reactive.jpg"  height="80" />
 </a>
-<a href="https://graphql.org" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"  height="80" />
-</a>
-<a href="https://github.com/sangria-graphql/sangria" target="_blank" >
-    <img src="https://sangria-graphql.github.io/assets/img/sangria-logo-1.svg"  height="80" />
-</a>
-
 
 #### Front end (enthusiast)
 <a href="https://reactjs.org/" target="_blank" >
