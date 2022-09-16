@@ -47,12 +47,12 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     </div>
 </div>
 
-##### Bread and Butter
+##### Current Explorations in Scala World
 <a href="https://typelevel.org/cats/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/cats-effect.png"  height="80" />
 </a>
 <a href="https://zio.dev/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/zio.gif"  height="120" />
+    <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/zio.gif"  height="80" />
 </a>
 <a href="https://monix.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/monix.png"  height="80" />
@@ -70,7 +70,7 @@ I am lucky enough to have worked on many good technologies. Have exposure on:
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/caliban.png"  height="80" />
 </a>
 
-##### Java Explorations
+##### Java Explorations (not using them lately!)
 <a href="https://start.spring.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/spring.png"  height="80" />
 </a>
